@@ -1,0 +1,19 @@
+{
+    "superHeroes": [
+        {
+            "id": 1,
+            "name": "Gatot Kaca",
+            "aktor": "gatau"
+        },
+        {
+            "id": 2,
+            "name": "Super Dede",
+            "aktor": "Dede"
+        },
+        {
+            "id": 1,
+            "name": "Sepatu Super 1",
+            "aktor": "gatau"
+        }
+    ]
+}
