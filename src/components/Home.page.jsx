@@ -15,6 +15,9 @@ export const HomePage = () => {
             <li>
               <Link to={"/rq-super-heroes"}>RQ Super Heroes Page</Link>
             </li>
+            <li>
+              <Link to={"/buatan-saya"}>Buatan saya Page</Link>
+            </li>
           </ul>
         </nav>
       </div>
